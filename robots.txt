@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /SOURCE-FIXES.md
 
 Sitemap: https://wanazlina.github.io/sitemap-index.xml
